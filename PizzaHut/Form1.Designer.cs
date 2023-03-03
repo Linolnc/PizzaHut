@@ -129,7 +129,7 @@
             // Calculate
             // 
             this.Calculate.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Calculate.Location = new System.Drawing.Point(235, 181);
+            this.Calculate.Location = new System.Drawing.Point(242, 181);
             this.Calculate.Name = "Calculate";
             this.Calculate.Size = new System.Drawing.Size(204, 29);
             this.Calculate.TabIndex = 13;
